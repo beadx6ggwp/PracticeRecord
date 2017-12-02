@@ -1,0 +1,6 @@
+C:\Users\Davis-School\Desktop\Question_P30\bin\Debug\Question_P30.exe.config
+C:\Users\Davis-School\Desktop\Question_P30\bin\Debug\Question_P30.exe
+C:\Users\Davis-School\Desktop\Question_P30\bin\Debug\Question_P30.pdb
+C:\Users\Davis-School\Desktop\Question_P30\obj\Debug\Question_P30.csprojResolveAssemblyReference.cache
+C:\Users\Davis-School\Desktop\Question_P30\obj\Debug\Question_P30.exe
+C:\Users\Davis-School\Desktop\Question_P30\obj\Debug\Question_P30.pdb

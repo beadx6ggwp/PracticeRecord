@@ -1,0 +1,6 @@
+C:\Users\DavidHsu\Desktop\bfs\obj\Debug\bfs.csprojResolveAssemblyReference.cache
+C:\Users\DavidHsu\Desktop\bfs\bin\Debug\bfs.exe.config
+C:\Users\DavidHsu\Desktop\bfs\bin\Debug\bfs.exe
+C:\Users\DavidHsu\Desktop\bfs\bin\Debug\bfs.pdb
+C:\Users\DavidHsu\Desktop\bfs\obj\Debug\bfs.exe
+C:\Users\DavidHsu\Desktop\bfs\obj\Debug\bfs.pdb

@@ -1,0 +1,6 @@
+C:\Users\Davis-School\Desktop\KMP字串比對\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Davis-School\Desktop\KMP字串比對\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Davis-School\Desktop\KMP字串比對\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Davis-School\Desktop\KMP字串比對\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Davis-School\Desktop\KMP字串比對\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Davis-School\Desktop\KMP字串比對\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

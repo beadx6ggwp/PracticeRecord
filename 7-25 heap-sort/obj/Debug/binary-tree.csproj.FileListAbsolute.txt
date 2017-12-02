@@ -1,0 +1,6 @@
+C:\Users\DavidHsu\Desktop\binary-tree\bin\Debug\binary-tree.exe.config
+C:\Users\DavidHsu\Desktop\binary-tree\bin\Debug\binary-tree.exe
+C:\Users\DavidHsu\Desktop\binary-tree\bin\Debug\binary-tree.pdb
+C:\Users\DavidHsu\Desktop\binary-tree\obj\Debug\binary-tree.csprojResolveAssemblyReference.cache
+C:\Users\DavidHsu\Desktop\binary-tree\obj\Debug\binary-tree.exe
+C:\Users\DavidHsu\Desktop\binary-tree\obj\Debug\binary-tree.pdb

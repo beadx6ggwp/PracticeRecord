@@ -1,0 +1,6 @@
+C:\Users\Davis-School\Desktop\二分圖最大匹配\bin\Debug\二分圖最大匹配.exe.config
+C:\Users\Davis-School\Desktop\二分圖最大匹配\bin\Debug\二分圖最大匹配.exe
+C:\Users\Davis-School\Desktop\二分圖最大匹配\bin\Debug\二分圖最大匹配.pdb
+C:\Users\Davis-School\Desktop\二分圖最大匹配\obj\Debug\二分圖最大匹配.csprojResolveAssemblyReference.cache
+C:\Users\Davis-School\Desktop\二分圖最大匹配\obj\Debug\二分圖最大匹配.exe
+C:\Users\Davis-School\Desktop\二分圖最大匹配\obj\Debug\二分圖最大匹配.pdb

@@ -1,0 +1,6 @@
+C:\Users\Davis-School\Desktop\圖的最小生成樹-Prim(堆積優化)\bin\Debug\圖的最小生成樹-Prim(堆積優化).exe.config
+C:\Users\Davis-School\Desktop\圖的最小生成樹-Prim(堆積優化)\bin\Debug\圖的最小生成樹-Prim(堆積優化).exe
+C:\Users\Davis-School\Desktop\圖的最小生成樹-Prim(堆積優化)\bin\Debug\圖的最小生成樹-Prim(堆積優化).pdb
+C:\Users\Davis-School\Desktop\圖的最小生成樹-Prim(堆積優化)\obj\Debug\圖的最小生成樹-Prim(堆積優化).csprojResolveAssemblyReference.cache
+C:\Users\Davis-School\Desktop\圖的最小生成樹-Prim(堆積優化)\obj\Debug\圖的最小生成樹-Prim(堆積優化).exe
+C:\Users\Davis-School\Desktop\圖的最小生成樹-Prim(堆積優化)\obj\Debug\圖的最小生成樹-Prim(堆積優化).pdb

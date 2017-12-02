@@ -1,0 +1,12 @@
+C:\Users\Davis-School\Desktop\二元搜尋樹\bin\Debug\二元搜尋樹.exe.config
+C:\Users\Davis-School\Desktop\二元搜尋樹\bin\Debug\二元搜尋樹.exe
+C:\Users\Davis-School\Desktop\二元搜尋樹\bin\Debug\二元搜尋樹.pdb
+C:\Users\Davis-School\Desktop\二元搜尋樹\obj\Debug\二元搜尋樹.csprojResolveAssemblyReference.cache
+C:\Users\Davis-School\Desktop\二元搜尋樹\obj\Debug\二元搜尋樹.exe
+C:\Users\Davis-School\Desktop\二元搜尋樹\obj\Debug\二元搜尋樹.pdb
+C:\Users\Davis-School\Desktop\二元搜尋樹(新增、搜尋)2\bin\Debug\二元搜尋樹.exe.config
+C:\Users\Davis-School\Desktop\二元搜尋樹(新增、搜尋)2\bin\Debug\二元搜尋樹.exe
+C:\Users\Davis-School\Desktop\二元搜尋樹(新增、搜尋)2\bin\Debug\二元搜尋樹.pdb
+C:\Users\Davis-School\Desktop\二元搜尋樹(新增、搜尋)2\obj\Debug\二元搜尋樹.csprojResolveAssemblyReference.cache
+C:\Users\Davis-School\Desktop\二元搜尋樹(新增、搜尋)2\obj\Debug\二元搜尋樹.exe
+C:\Users\Davis-School\Desktop\二元搜尋樹(新增、搜尋)2\obj\Debug\二元搜尋樹.pdb

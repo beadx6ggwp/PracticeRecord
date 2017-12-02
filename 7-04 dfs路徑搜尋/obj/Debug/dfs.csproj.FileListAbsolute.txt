@@ -1,0 +1,6 @@
+C:\Users\DavidHsu\Desktop\dfs\obj\Debug\dfs.csprojResolveAssemblyReference.cache
+C:\Users\DavidHsu\Desktop\dfs\bin\Debug\dfs.exe.config
+C:\Users\DavidHsu\Desktop\dfs\bin\Debug\dfs.exe
+C:\Users\DavidHsu\Desktop\dfs\bin\Debug\dfs.pdb
+C:\Users\DavidHsu\Desktop\dfs\obj\Debug\dfs.exe
+C:\Users\DavidHsu\Desktop\dfs\obj\Debug\dfs.pdb

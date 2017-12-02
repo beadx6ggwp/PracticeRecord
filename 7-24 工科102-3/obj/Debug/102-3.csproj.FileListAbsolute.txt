@@ -1,0 +1,12 @@
+C:\Users\DavidHsu\Desktop\102-3\bin\Debug\102-3.exe.config
+C:\Users\DavidHsu\Desktop\102-3\bin\Debug\102-3.exe
+C:\Users\DavidHsu\Desktop\102-3\bin\Debug\102-3.pdb
+C:\Users\DavidHsu\Desktop\102-3\obj\Debug\102-3.csprojResolveAssemblyReference.cache
+C:\Users\DavidHsu\Desktop\102-3\obj\Debug\102-3.exe
+C:\Users\DavidHsu\Desktop\102-3\obj\Debug\102-3.pdb
+C:\Users\Davis-School\Desktop\練習\7-24 工科102-3\bin\Debug\102-3.exe.config
+C:\Users\Davis-School\Desktop\練習\7-24 工科102-3\bin\Debug\102-3.exe
+C:\Users\Davis-School\Desktop\練習\7-24 工科102-3\bin\Debug\102-3.pdb
+C:\Users\Davis-School\Desktop\練習\7-24 工科102-3\obj\Debug\102-3.csprojResolveAssemblyReference.cache
+C:\Users\Davis-School\Desktop\練習\7-24 工科102-3\obj\Debug\102-3.exe
+C:\Users\Davis-School\Desktop\練習\7-24 工科102-3\obj\Debug\102-3.pdb
