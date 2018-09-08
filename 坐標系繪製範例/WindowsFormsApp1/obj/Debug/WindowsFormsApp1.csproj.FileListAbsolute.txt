@@ -8,3 +8,13 @@ C:\Users\Davidhsu\Documents\Visual Studio 2017\Project\WindowsFormsApp1\WindowsF
 C:\Users\Davidhsu\Documents\Visual Studio 2017\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\Davidhsu\Documents\Visual Studio 2017\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Davidhsu\Documents\Visual Studio 2017\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Davidhsu\Desktop\Coding\C#\坐標系繪製範例\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Davidhsu\Desktop\Coding\C#\坐標系繪製範例\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Davidhsu\Desktop\Coding\C#\坐標系繪製範例\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Davidhsu\Desktop\Coding\C#\坐標系繪製範例\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Davidhsu\Desktop\Coding\C#\坐標系繪製範例\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Davidhsu\Desktop\Coding\C#\坐標系繪製範例\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Davidhsu\Desktop\Coding\C#\坐標系繪製範例\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Davidhsu\Desktop\Coding\C#\坐標系繪製範例\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Davidhsu\Desktop\Coding\C#\坐標系繪製範例\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Davidhsu\Desktop\Coding\C#\坐標系繪製範例\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -59,17 +59,19 @@ namespace WindowsFormsApp1
 
             // X軸
             g.DrawLine(Pens.Black, -drawSize.X / 2, 0, drawSize.X / 2, 0);
-            for (float x = -Min; x <= Max; x += 20)
+            for (float x = -Min; x <= Max; x += 10)
             {
-                g.DrawString(x.ToString(), new Font("consolas", 8), Brushes.Black, x * scale.X, 0);
+                if (x % 20 == 0)
+                    g.DrawString(x.ToString(), new Font("consolas", 8), Brushes.Black, x * scale.X - 6, 0);
                 g.FillRectangle(Brushes.Black, x * scale.X - 1, -3, 2, 6);
             }
 
             // Y軸
             g.DrawLine(Pens.Black, 0, -drawSize.Y / 2, 0, drawSize.Y / 2);
-            for (float y = -Min; y <= Max; y += 20)
+            for (float y = -Min; y <= Max; y += 10)
             {
-                g.DrawString(y.ToString(), new Font("consolas", 8), Brushes.Black, 0, y * scale.Y);
+                if (y % 20 == 0 && y != 0)
+                    g.DrawString(y.ToString(), new Font("consolas", 8), Brushes.Black, 0, y * scale.Y - 6);
                 g.FillRectangle(Brushes.Black, -3, y * scale.Y - 1, 6, 2);
             }
 
